@@ -1,0 +1,25 @@
+{
+  "format": "thooval-blog",
+  "version": 1,
+  "title": "test",
+  "updatedAt": "2026-07-20T11:33:16.519Z",
+  "posts": [
+    {
+      "id": "welcome",
+      "title": "Welcome to Thooval",
+      "slug": "welcome-to-thooval",
+      "updatedAt": 1784545762124,
+      "published": true,
+      "file": ".thooval/posts/welcome-to-thooval.md"
+    },
+    {
+      "id": "first-post",
+      "title": "A quiet place to write",
+      "slug": "a-quiet-place-to-write",
+      "updatedAt": 1784424750571,
+      "published": true,
+      "file": ".thooval/posts/a-quiet-place-to-write.md"
+    }
+  ],
+  "assets": []
+}
