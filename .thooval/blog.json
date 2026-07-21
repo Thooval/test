@@ -2,7 +2,7 @@
   "format": "thooval-blog",
   "version": 1,
   "title": "test",
-  "updatedAt": "2026-07-20T11:33:16.519Z",
+  "updatedAt": "2026-07-21T21:51:07.553Z",
   "posts": [
     {
       "id": "welcome",
@@ -19,6 +19,14 @@
       "updatedAt": 1784424750571,
       "published": true,
       "file": ".thooval/posts/a-quiet-place-to-write.md"
+    },
+    {
+      "id": "dcb9a801-5a03-49d8-b970-3114b7882309",
+      "title": "Untitled post 3",
+      "slug": "untitled-post-3",
+      "updatedAt": 1784670663172,
+      "published": true,
+      "file": ".thooval/posts/untitled-post-3.md"
     }
   ],
   "assets": []
